@@ -1,2 +1,2 @@
 # LLM
-Learn LLM
+build-a-large-language-model-from-scratch
